@@ -1,0 +1,15 @@
+/Users/efeataakan/Desktop/asal_sayi/bin/Debug/net8.0/asal_sayi
+/Users/efeataakan/Desktop/asal_sayi/bin/Debug/net8.0/asal_sayi.deps.json
+/Users/efeataakan/Desktop/asal_sayi/bin/Debug/net8.0/asal_sayi.runtimeconfig.json
+/Users/efeataakan/Desktop/asal_sayi/bin/Debug/net8.0/asal_sayi.dll
+/Users/efeataakan/Desktop/asal_sayi/bin/Debug/net8.0/asal_sayi.pdb
+/Users/efeataakan/Desktop/asal_sayi/obj/Debug/net8.0/asal_sayi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efeataakan/Desktop/asal_sayi/obj/Debug/net8.0/asal_sayi.AssemblyInfoInputs.cache
+/Users/efeataakan/Desktop/asal_sayi/obj/Debug/net8.0/asal_sayi.AssemblyInfo.cs
+/Users/efeataakan/Desktop/asal_sayi/obj/Debug/net8.0/asal_sayi.csproj.CoreCompileInputs.cache
+/Users/efeataakan/Desktop/asal_sayi/obj/Debug/net8.0/asal_sayi.sourcelink.json
+/Users/efeataakan/Desktop/asal_sayi/obj/Debug/net8.0/asal_sayi.dll
+/Users/efeataakan/Desktop/asal_sayi/obj/Debug/net8.0/refint/asal_sayi.dll
+/Users/efeataakan/Desktop/asal_sayi/obj/Debug/net8.0/asal_sayi.pdb
+/Users/efeataakan/Desktop/asal_sayi/obj/Debug/net8.0/asal_sayi.genruntimeconfig.cache
+/Users/efeataakan/Desktop/asal_sayi/obj/Debug/net8.0/ref/asal_sayi.dll
